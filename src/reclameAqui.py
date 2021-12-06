@@ -22,7 +22,7 @@ driver = webdriver.Chrome(options=options,executable_path=DRIVER_PATH)
 
 
 
-lista_lojas = ['americanas-com-loja-online', ]
+lista_lojas = ['americanas-com-loja-online', 'magazine-luiza-loja-online', 'carrefour-loja-online', 'casas-bahia-loja-online', 'amazon', 'extra-loja-online']
 
 lista_dados = []
 
