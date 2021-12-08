@@ -1,26 +1,14 @@
 from operator import le
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 import time
-from peewee import *
-from peeweeOrm.entities.Games import *
-from peeweeOrm.entities.StatisticsGames import *
-from strategies.VerificaGreenCantoByScoreBing import *
-from selenium.webdriver.support import expected_conditions as EC
-from strategies.VerificaGreenCantoNewVersionFunilScoreBing import *
 import os
-from selenium.webdriver.common.by import By
-
-
-
+from json import dump
 
 options = Options()
 options.add_argument("start-maximized")
 DRIVER_PATH = os.path.abspath(os.getcwd())+'/src/chromedriver'
 driver = webdriver.Chrome(options=options,executable_path=DRIVER_PATH)
-
-
 
 lista_lojas = ['americanas-com-loja-online', 'magazine-luiza-loja-online', 'carrefour-loja-online', 'casas-bahia-loja-online', 'amazon', 'extra-loja-online']
 
@@ -100,4 +88,10 @@ for loja in lista_lojas:
     lista_dados.append(informacao)
 time.sleep(5)
 for a in lista_dados:
-    print(a)
+    print(f'{a}\n')
+
+caminho_arquivo = './data/dados.json'
+
+arquivo = open(caminho_arquivo, 'w' if os.path.exists(caminho_arquivo) else 'x')
+dump(lista_dados, arquivo)
+arquivo.close()
