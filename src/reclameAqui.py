@@ -64,6 +64,20 @@ for loja in lista_lojas:
         valor = nomeProblema.text.split("\n")[1].replace('(','').replace(')','')
         problemasSubCategorias.append({nome: valor} )        
 
+    driver.execute_script("document.getElementById('box-complaints-read-more').click()")
+    time.sleep(1)
+
+    divsReclamacoes = driver.find_elements_by_class_name('bJdtis')
+    
+    print('divsReclamacoes: ')
+    print(type(divsReclamacoes))
+    print(divsReclamacoes)
+
+    reclamacoes = list(map(lambda div: {
+        'titulo': div.find_element_by_css_selector('a > h4').get_attribute('innerText'),
+        'texto': div.find_element_by_tag_name('p').get_attribute('innerText')
+    }, divsReclamacoes)) 
+
     informacao = {
                     'Nome Da Loja': loja,
                     'Total de reclamaçoes': total_reclamacoes.text,
@@ -81,9 +95,8 @@ for loja in lista_lojas:
                                             'Tipos de problemas': tiposDeProblemaSubCategoria,
                                             'Produtos e Servicos': produtosServicos,
                                             'Categorias': problemasSubCategorias
-                    }
-
-    
+                    },
+                    'Reclamacoes': reclamacoes,
         }
     lista_dados.append(informacao)
 time.sleep(5)
