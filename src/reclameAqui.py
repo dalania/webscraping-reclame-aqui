@@ -103,7 +103,7 @@ time.sleep(5)
 for a in lista_dados:
     print(f'{a}\n')
 
-caminho_arquivo = './data/dados.json'
+caminho_arquivo = 'src/data/dados.json'
 
 arquivo = open(caminho_arquivo, 'w' if os.path.exists(caminho_arquivo) else 'x')
 dump(lista_dados, arquivo)
