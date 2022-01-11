@@ -1,536 +1,206 @@
 [
   {
     "Nome Da Loja": "americanas-com-loja-online",
-    "Total de reclama\u00e7oes": "127133",
-    "Reclama\u00e7\u00f5es Respondidas": "94.8%",
-    "Voltariam a fazer negogicio": "78.2%",
-    "Indice de solu\u00e7ao": "89.2%",
-    "Nota do consumidor": "7.4",
+    "Total de reclama\u00e7oes": "128070",
+    "Reclama\u00e7\u00f5es Respondidas": "96.2%",
+    "Voltariam a fazer negogicio": "78.3%",
+    "Indice de solu\u00e7ao": "89.3%",
+    "Nota do consumidor": "7.41",
     "Reputa\u00e7\u00e3o": "8.4",
-    "Percentual Principais Problemas": {
-      "Atraso na entrega": "18.27%",
-      "Outro Tipo de produto/Servi\u00e7o": "15.43%",
-      "Celulares e Smartphones": "21.28%"
-    },
-    "Principais Problemas": {
-      "Tipos de problemas": [
-        {
-          "Atraso na entrega": "23119"
-        },
-        {
-          "Outro problema": "16096"
-        },
-        {
-          "Produto n\u00e3o recebido": "10964"
-        },
-        {
-          "Problemas na finaliza\u00e7\u00e3o da compra": "4997"
-        },
-        {
-          "Estorno do valor pago": "4789"
-        }
-      ],
-      "Produtos e Servicos": [
-        {
-          "Outro Tipo de produto/Servi\u00e7o": "19525"
-        },
-        {
-          "Smartphone": "13617"
-        },
-        {
-          "Celular": "11593"
-        },
-        {
-          "TV": "9376"
-        },
-        {
-          "Geladeira-Refrigerador": "4064"
-        }
-      ],
-      "Categorias": [
-        {
-          "Celulares e Smartphones": "26930"
-        },
-        {
-          "Eletroeletr\u00f4nicos": "13931"
-        },
-        {
-          "Eletrodom\u00e9sticos": "13599"
-        },
-        {
-          "N\u00e3o encontrei meu problema": "12125"
-        },
-        {
-          "Inform\u00e1tica": "6233"
-        }
-      ]
-    },
     "Reclamacoes": [
       {
-        "titulo": "N\u00e3o entregaram minha compra",
-        "texto": "Falta de respeito com o cliente Tiveram problema com a entrega dos produtos e at\u00e9 agora est\u00e3o me enrolando pra entregar fiz a compra dia 13/11 e at\u00e9 agora n\u00e3o consegui retirar minha compra.Desde dia 24/11 esperando uma respostas \u00e9 s\u00f3 dizem que est\u00e3o verificando e nada !"
+        "titulo": "Pedido atrasado",
+        "texto": "No dia 24 de dezembro comprei uma escova secadora no aplicativo americanas com data de entrega para 3 de janeiro ap\u00f3s a data e mesmo com pedido estando no meu estado desde o dia 29, a data foi alterada para 11 de janeiro. N\u00e3o houve explica\u00e7\u00e3o nem motivo para isso sabendo que o pedido j\u00e1 poderia ter sido entregue no prazo no qual comprei o produto."
       },
       {
-        "titulo": "Produto sequer retirado na loja e pagamento n\u00e3o foi devolvido",
-        "texto": "Boa tarde! Realizei a compra de um roteador, mas o mesmo veio com problema. Solicitei a troca imediata, mas n\u00e3o ocorreu. Como n\u00e3o me davam retorno sobre a libera\u00e7\u00e3o de produto, solicitei o cancelamento antes dele chegar \u00e0 loja para retirada e o dinheiro pago n\u00e3o me foi devolvido. Aguardo a libera\u00e7\u00e3o do meu dinheiro urgentemente. Obrigada!"
+        "titulo": "Produto n\u00e3o recebido",
+        "texto": "Fiz uma compra na americanas no dia 03/01a entrega chegou no dia 04/01 por volta das 15:00h consultei meus vizinhos e n\u00e3o est\u00e1 com ningu\u00e9m, queria saber oque fazer pois iria ser presente para minha filha."
       },
       {
-        "titulo": "DEMORA NA ENTREGA",
-        "texto": "Um dos meus pedidos era para ter chegado dia 10/12 e um outro dia 13/12 e at\u00e9 agora nada . N\u00e3o consigo entrar em contato com a loja , j\u00e1 tentei pelo o site , central do sac e chat. Por favor , verifiquem meus pedidos."
+        "titulo": "Comprei Soundbar LG SNH5 no dia seguinte estava com R$160 de desconto.",
+        "texto": "Boa tarde.Comprei Soundbar LG SNH5 (Pedido: 02-916678303 - 04/jan 09:23) no site da https://www.americanas.com.br/ por R$1.599,99, no dia seguinte estava por R$1.439,09, um desconto R$160,09, quero ter desconto tamb\u00e9m no meu produto ou alguma compensa\u00e7\u00e3o do valor, sen\u00e3o gostaria de cancelar o pedido."
       },
       {
-        "titulo": "AMERICANAS FINGE QUE ENTREGA E N\u00c3O ENTREGA",
-        "texto": "Dia 04/12/21 fiz a compra de um smartphone (presente para minha filha), com data prevista de entrega para dia 08/12/21. Ap\u00f3s a data prometida, busquei as informa\u00e7\u00f5es no aplicativo e notei que o rastreio n\u00e3o havia andado, a \u00faltima informa\u00e7\u00e3o que constava era de que o pedido estava em tr\u00e2nsito entre as filiais da transportadora DirectLog e a \u00faltima atualiza\u00e7\u00e3o de status do andamento do pedido era 05/12/21. Como orientado pelo site, entrei em contato, informando a inclusive a transportadora.Ap\u00f3s in\u00fameras tentativas de contato pelo &quot;preciso de ajuda&quot; do app, tentei tamb\u00e9m o telefone (que sempre d\u00e1 mensagem de que todos os atendentes est\u00e3o ocupados no momento - tente mais tarde) e pelo whatsapp (atendimento automatizado) que sempre direciona de volta para o &quot;preciso de ajuda&quot; do app; depois de muito tempo perdido, de muitas liga\u00e7\u00f5es derrubadas, consegui finalmente falar com uma atendente que foi pesquisar e me retornou a informa\u00e7\u00e3o de que meu pedido estava com observa\u00e7\u00e3o de poss\u00edvel &quot;sinistro&quot;. Pedi que me explicasse melhor que tipo de sinistro, ela disse que era comum acontecer de n\u00e3o acharem o produto dentro do galp\u00e3o e colocam esta observa\u00e7\u00e3o, mas depois encontram e d\u00e1 tudo certo. Abriu um protocolo (protocolo 322112130913292) e me disse que dentro de 24 horas eu receberia o contato de algu\u00e9m da log\u00edstica com uma posi\u00e7\u00e3o. No dia de hoje (14/12/2021) faltando poucos minutos para o prazo de 24h se expirar, eis que recebo mensagem de que meu produto saiu para entrega e alguns segundos depois, que o produto havia sido entregue. Ocorre que estou em casa, de f\u00e9rias, n\u00e3o sa\u00ed para lugar algum e no momento em que dizem ter entregue, estava em casa e N\u00c3O ENTREGARAM NADA. Apenas, fizeram de conta, uma &quot [Editado pelo Reclame Aqui] quot; de que entregaram para n\u00e3o estourarem o prazo.Ap\u00f3s, entrei em contato por whatsapp que direcionou para o app informando o ocorrido, mas n\u00e3o respondem, n\u00e3o d\u00e3o a menor aten\u00e7\u00e3o.Estou o dia todo tentando falar por telefone, tamb\u00e9m n\u00e3o consigo, apenas a mensagem de que todos os atendentes est\u00e3o ocupados, para tentar mais tarde.Por isso, ap\u00f3s anos comprando da Americanas e recomendando a familiares e amigos, hoje decidi que N\u00c3O COMPRO E N\u00c3O RECOMENDO A AMERICANAS NUNCA MAIS. Se voc\u00ea tiver problemas a AMERICANAS te ignora e voc\u00ea n\u00e3o consegue falar com ningu\u00e9m. O atendimento \u00e9 p\u00e9ssimo!!! Falta de respeito com o cliente.Recomendo o Mercado Livre, entrega r\u00e1pida, retorno r\u00e1pido. Americanas nunca mais."
+        "titulo": "Pagamento via pix e n\u00e3o encontro o pedido",
+        "texto": "Ontem no per\u00edodo da tarde umas 16:00 fui at\u00e9 o site americanas e vi uma promo\u00e7\u00e3o de escorredor de plastico vermelho fiz todo processo e a forma de pagamento via pix assim que gerou c\u00f3digo de pagamento fui at\u00e9 meu aplicativo do banco e fiz o pagamento . Quando voltei ao site n\u00e3o tinha pedido confirma\u00e7\u00e3o e nada . hoje pela manh\u00e3 mandei email entrei no chat telefone tudo o que podia entrar em contato e at\u00e9 o momento nenhum retorno . O valor at\u00e9 baixo mas acho que uma empresa do porte que tem n\u00e3o me dar nenhum retorno . O comprovante saiu com nome de uma empresa fantasia que presta servi\u00e7o para Am\u00e9ricas ."
       },
       {
-        "titulo": "Pedido n\u00e3o entregue",
-        "texto": "No dia 2 de novembro realizei um pedido no site da Americanas (02-878336081) de uma Fritadeira El\u00e9trica Sem \u00d3leo Air Fryer Mondial AF-34 3,2L 1270W Preta 220V, por\u00e9m n\u00e3o recebi o produto, dizem que foi entregue, mas ningu\u00e9m no meu endere\u00e7o recebeu e ainda depois que abri a reclama\u00e7\u00e3o no site a empresa que fez o frete me mandou uma mensagem dizendo que o motorista n\u00e3o tinha o comprovante de entrega assinado e perguntava se eu tinha recebido, o qual neguei. Espero uma resolu\u00e7\u00e3o urgente."
+        "titulo": "Compra nas americanas = pesadelo / aguardo vale",
+        "texto": "Fiz uma compra meu pedido: 02-908287245 depois de 20 dias me avisaram que foi extraviado pela transportadora e a compra j\u00e1 apareceu cancelada fiz o pagamento no cart\u00e3o, tenho protocolo do site 322112130854384, protocolo reclame aqui ID: 134600655, a quest\u00e3o \u00e9 agora que cancelaram foi liberado um cupom e com o valor do vale n\u00e3o consigo comprar o aparelho que aproveitei pre\u00e7o na Black Friday, os valores est\u00e3o mais altos. Dia 24/12 consegui contato foi aberto o protocolo 322112241021957 do pedido 02-908287245, que vai avaliar o reenvio da minha mercadoria, n\u00e3o tive resposta. Resumindo: Eu usei parte do vale liberado para comprar outro celular inferior e o restante que ficou dispon\u00edvel, porem n\u00e3o \u00e9 poss\u00edvel fazer uma nova compra porque o fone \u00e9 mais caro, em resposta hoje dia 05/01/2022 a Karoline Silva do Servi\u00e7o de Atendimento ao Cliente Atendimento Especial Americanas ficou de solicitar um vale assim eu consigo juntar os dois e fazer uma nova compra. Por favor a pr\u00f3xima resposta que j\u00e1 seja com o vale dispon\u00edvel, a cada retorno seu me pede dois dias j\u00e1 estou a mais de 35 dias nessa fun\u00e7\u00e3o onde uma compra virou um pesadelo.Protocolo de atendimento: #49490251"
       }
-    ]
+    ],
+    "Percentual de atraso na entrega": "18.06%",
+    "Percentual de outro tipo de produto/servi\u00e7o": "15.98%",
+    "Percentual de celulares e smartphones": "21.19%"
   },
   {
     "Nome Da Loja": "magazine-luiza-loja-online",
-    "Total de reclama\u00e7oes": "337187",
-    "Reclama\u00e7\u00f5es Respondidas": "96.1%",
+    "Total de reclama\u00e7oes": "342900",
+    "Reclama\u00e7\u00f5es Respondidas": "96.8%",
     "Voltariam a fazer negogicio": "75.6%",
     "Indice de solu\u00e7ao": "90.8%",
     "Nota do consumidor": "7.2",
     "Reputa\u00e7\u00e3o": "8.3",
-    "Percentual Principais Problemas": {
-      "Atraso na entrega": "15.98%",
-      "Outro Tipo de produto/Servi\u00e7o": "22.41%",
-      "Eletrodom\u00e9sticos": "11.84%"
-    },
-    "Principais Problemas": {
-      "Tipos de problemas": [
-        {
-          "Atraso na entrega": "53904"
-        },
-        {
-          "Outro problema": "53195"
-        },
-        {
-          "Produto n\u00e3o recebido": "26177"
-        },
-        {
-          "Estorno do valor pago": "14176"
-        },
-        {
-          "Troca-Devolu\u00e7\u00e3o de produto": "10042"
-        }
-      ],
-      "Produtos e Servicos": [
-        {
-          "Outro Tipo de produto/Servi\u00e7o": "75625"
-        },
-        {
-          "Smartphone": "15120"
-        },
-        {
-          "Celular": "12943"
-        },
-        {
-          "M\u00f3veis": "12118"
-        },
-        {
-          "TV": "8222"
-        }
-      ],
-      "Categorias": [
-        {
-          "Eletrodom\u00e9sticos": "39953"
-        },
-        {
-          "N\u00e3o encontrei meu problema": "35870"
-        },
-        {
-          "Celulares e Smartphones": "32606"
-        },
-        {
-          "M\u00f3veis em Geral": "25340"
-        },
-        {
-          "Eletroeletr\u00f4nicos": "21335"
-        }
-      ]
-    },
     "Reclamacoes": [
       {
-        "titulo": "Entrega Atrasada",
-        "texto": "Fiz a compra e me disseram que a entrega era em 1 dia util quando chegou no dia da entrega prorrogaram para mais 5 dias"
+        "titulo": "N\u00c3O ME AJUDAM, AT\u00c9 PRA ATENDER LIGA\u00c7\u00d5EST\u00c1 DIFICIL",
+        "texto": "Meu cart\u00e3o Magalu chegou fui desbloquear no aplicativo e pede a senha, a senha vem de forma dividia: 3 n\u00famero por SMS e 3 n\u00fameros pelo e-mail. Mas n\u00e3o veio nenhuma senha em nenhum dos dois meios e-mail/SMS, como vou desbloquear? Ent\u00e3o liguei pra eles e falaram que chegaria com 48 horas uma nova senha, chegou foi nada! Ainda disse que quando chegasse eu teria que me deslocar at\u00e9 a ag\u00eancia Ita\u00fa pra poder desbloquear o cart\u00e3o, eita! Eu aqui acamada e rec\u00e9m cirurgiada tenho que ir a uma ag\u00eancia? Pela f\u00e9! Que complica\u00e7\u00e3o pra desbloquear um cart\u00e3o viu.. Esperando a ajuda de voc\u00eas Magalu, pode falar via hugme que eu respondo."
       },
       {
-        "titulo": "N\u00e3o recebi meu pedido",
-        "texto": "Boa tarde, no dia 25/11, comprei um microondas.E no dia 30/11, por volta das 22:00 recebi uma mensagem falando que meu produto foi entregue.Achei que teria sido dado baixa indevida.No dia 2 entrei contato com a magazine, e falaram que eu teria que aguarda 10 dias, para a transportadora me enviar o comprovante com o nome, CPF, rg de quem recebeu.Hj liguei novamente tenho que aguardar ainda.A fatura do meu cart\u00e3o vai chega, e como vai fica.Estou sem produto.Quero o cancelamento do meu produto.Quero meu dinheiro de volta."
+        "titulo": "Descaso com o hist\u00f3rico do cliente",
+        "texto": "N\u00e3o negocia absolutamente nada em rela\u00e7\u00e3o ao cart\u00e3o. \u00c9 implac\u00e1vel nas cobran\u00e7as. N\u00e3o considera o hist\u00f3rico do cliente. Lament\u00e1vel"
       },
       {
-        "titulo": "Produto defeituoso",
-        "texto": "No dia 18/11 efetuei uma compra pela internet de uma Cadeira de Escrit\u00f3rio Girat\u00f3ria Fitz Preta. Ap\u00f3s receb\u00ea-la, montei e coloquei em uso. Por\u00e9m, fiz a constata\u00e7\u00e3o de que o pist\u00e3o a g\u00e1s veio com defeito, pois n\u00e3o h\u00e1 como fazer a regulagem da altura, permanecendo na posi\u00e7\u00e3o mais baixa. Logo pe\u00e7o a substitui\u00e7\u00e3o do mecanismo (pist\u00e3o) ou mesmo a troca do produto."
+        "titulo": "Devolvi mercadorias e n\u00e3o tive estorno valor",
+        "texto": "Em meados do m\u00eas de outubro comprei 7 vestidos na loja Magazine Luiza on LINE. Paguei todos com cart\u00e3o de cr\u00e9dito. Ocorre que dos 7, cinco n\u00e3o ficaram bons. A maioria era compra por market place. Devolvi 5 vestidos pelo correio. Inclusive, um deles a empresa vendedora demorou a enviar o c\u00f3digo de postagem. O valor total foi pago na fatura do cart\u00e3o no come\u00e7o de novembro/2021. E at\u00e9 hoje, me foi creditado apenas 409,00 no cart\u00e3o de cr\u00e9dito. Agora que fiz a conta de todos os vestidos que paguei, e vi que falta devolu\u00e7\u00e3o de dinheiro"
       },
       {
-        "titulo": "entrega da black Friday atrasada mais de 10 dias",
-        "texto": "Meu pedido foi feito dia 26/11 na black friday e dia 27 a compra j\u00e1 estava aprovada. A data prevista de entrega era no dia 3 de dezembro e hoje j\u00e1 estamos no dia 14 nada do produto ser enviado. provavelmente n\u00e3o deve ter no estoque e mesmo assim estavam vendendo. Acho uma falta de considera\u00e7\u00e3o eu j\u00e1 mandei v\u00e1rias mensagens para a loja e para o vendedor e n\u00e3o obtive nenhuma resposta. N\u00e3o vou cancelar o pedido e caso continue desse jeito sem me enviar o produto e sem nenhuma justificava irei recorrer aos meus direitos."
+        "titulo": "Comprei um sof\u00e1 novo e recebi um rasgado",
+        "texto": "Dia 26 de novembro comprei um conjunto de sof\u00e1 no site magazine Luiza, vendida e entregue pela loja Zapp. Apos o pagamento recebi a nota fiscal do magazine, entendi que o magazine Luiza era respons\u00e1vel pela venda. A informa\u00e7\u00e3o foi que eu receberia em 14 dias uteis, antes do natal que era meu objetivo passar o natal com sof\u00e1 novo. Chegou dia 10, descarregaram e sairiam rapido, quando fui conferir vi que a cor estava errada, mas o rapaz percebeu o erro e voltou pra trocar. Conferi a cor e so fui desembalar a noite, quando vi o sof\u00e1 rasgado e descosturado na frente . Entrei em contato por telefone com magazine que me orientou enviar fotos E nota pra eles. Posteriormente mandei e-mail, onde me deram um numero de watts zap do parceiro , que me pediram fotos e nota, mandei novamente. Me responderam dia 13 /12 que tinham 15 dias uteis pra fazer a troca, vi que n\u00e3o teria o sofa no natal, reclamei que o erro foi deles e nao meu, falaram que seria prioridade e viria antes. Como ja tinha tirado da sala o antigo pra entrar o novo, e nem desembalei , fiquei 10 dias sem ter onde sentar, tive que voltar o velho e amontoar tudo na sala. Entrei em contato varias vezes com magazine, que repetia sempre a mesma coisa automaticamente, nem um momento alguem tentou resolver o problema. Passou natal, ano novo e at\u00e9 hoje dia 5 de janeiro estou sem o sof\u00e1, que eu ja paguei a vista. So COMPREI confiando na re [Editado pelo Reclame Aqui] \u00e7\u00e3o do magazine Luiza que \u00e9 conhecido, n\u00e3o pelo nome de parceiro Zapp, que eu nunca vi. Nao compro mais no Magazine Luiza, meus familiares e amigos que viram o que passei, tambem n\u00e3o. P\u00e9ssimo o p\u00f3s venda do Magazine Luiza, que se limita a pedir desculpas virtualmente e horroroso o atendimento da empresa Zapp, que s\u00f3 se preocupa em vender. J\u00e1 cancelei meu cart\u00e3o do Magazine Luiza e deste fornecedor med\u00edocre jamais tornarei a efetuar alguma compra ou indicar para outra pessoa. Agora j\u00e1 se passaram os 15 dias \u00fateis e tenho compromissos e n\u00e3o d\u00e1 para ficar eternamente esperando a boa vontade destas empresas para efetuarem a troca."
       },
       {
-        "titulo": "Problema na devolu\u00e7\u00e3o de objeto, e magazine n\u00e3o estorna valor.",
-        "texto": "Compramos um torneira em setembro, e ela veio com defeito, ent\u00e3o realizamos a devolu\u00e7\u00e3o. Por\u00e9m, o vendedor n\u00e3o retirou o objeto, e o produto voltou para a nossa resid\u00eancia. Foi gerado um novo c\u00f3digo de postagem, e aconteceu novamente, ou seja 2 vezes a mesma situa\u00e7\u00e3o. Ao mesmo tempo fizemos algumas reclama\u00e7\u00f5es no atendimento ao cliente da magazine, e disseram que devolveriam o valor dentro de determinado prazo, e n\u00e3o ocorreu.Hoje, pela terceira vez, o objeto voltou para a nossa resid\u00eancia, e n\u00e3o estamos conseguindo resolver a situa\u00e7\u00e3o com a magazine, que n\u00e3o tem se responsabilizado nem com o objeto, e nem com o estorno, aguardamos uma solu\u00e7\u00e3o."
+        "titulo": "Atrazo na entrega / Cancelamento",
+        "texto": "Realizei a compra no dia 10/12 pela internet. No dia 14/12 constou o pagamento onde me deram um prazo para retirada na loja dia 20/12, por\u00e9m o produto n\u00e3o chegou no prazo. Mandei diversas mensagens querendo saber se o produto chegaria pelo menos at\u00e9 o dia 22/12 por se tratar de um presente de natal, mas n\u00e3o obtive respostas. Na semana do dia 24/12 solicitei o cancelamento, mas at\u00e9 o momento n\u00e3o foi realizado e consta como se o produto ainda fosse chegar na loja para retirada. Na resposta que me deram, disseram que eu tenho que esperar at\u00e9 o dia 11/01 que no caso seria o dia que consta a entrega na loja. Eu j\u00e1 informei que n\u00e3o quero mais o produto e desejo o cancelamento e estorno o quanto antes."
       }
-    ]
+    ],
+    "Percentual de atraso na entrega": "15.96%",
+    "Percentual de outro tipo de produto/servi\u00e7o": "23.12%",
+    "Percentual de eletrodom\u00e9sticos": "11.94%"
   },
   {
     "Nome Da Loja": "carrefour-loja-online",
-    "Total de reclama\u00e7oes": "107577",
-    "Reclama\u00e7\u00f5es Respondidas": "98.8%",
-    "Voltariam a fazer negogicio": "39.4%",
-    "Indice de solu\u00e7ao": "72.6%",
-    "Nota do consumidor": "3.92",
+    "Total de reclama\u00e7oes": "106132",
+    "Reclama\u00e7\u00f5es Respondidas": "99.0%",
+    "Voltariam a fazer negogicio": "39.6%",
+    "Indice de solu\u00e7ao": "72.5%",
+    "Nota do consumidor": "3.95",
     "Reputa\u00e7\u00e3o": "6.1",
-    "Percentual Principais Problemas": {
-      "Outro problema": "44.3%",
-      "Outro Tipo de produto/Servi\u00e7o": "47.15%",
-      "N\u00e3o encontrei meu problema": "39.45%"
-    },
-    "Principais Problemas": {
-      "Tipos de problemas": [
-        {
-          "Outro problema": "47665"
-        },
-        {
-          "Atraso na entrega": "5530"
-        },
-        {
-          "Estorno do valor pago": "2865"
-        },
-        {
-          "Produto n\u00e3o recebido": "2548"
-        },
-        {
-          "Problema com entrega de produto-compras": "2240"
-        }
-      ],
-      "Produtos e Servicos": [
-        {
-          "Outro Tipo de produto/Servi\u00e7o": "50728"
-        },
-        {
-          "Hipermercados": "17534"
-        },
-        {
-          "Supermercados": "3766"
-        },
-        {
-          "Cart\u00e3o de cr\u00e9dito": "126"
-        },
-        {
-          "Celular": "34"
-        }
-      ],
-      "Categorias": [
-        {
-          "N\u00e3o encontrei meu problema": "42444"
-        },
-        {
-          "Hipermercados": "30621"
-        },
-        {
-          "Supermercados": "6827"
-        },
-        {
-          "N\u00e3o categorizado": "4900"
-        },
-        {
-          "Cart\u00f5es de Cr\u00e9dito": "144"
-        }
-      ]
-    },
     "Reclamacoes": [
       {
-        "titulo": "Plataforma Carrefour totalmente despreparada para resolu\u00e7\u00e3o de Problemas!!! N\u00c3O COMPREM \u00c9 FURADA!!!!",
-        "texto": "Dia 23/11 efetuei a compra de 2 Kits cadeiras Gomos Eiffel Eames Fitz Dubli Estofada Base Madeira Trato Preto loja parceira Magazine Roma, cada kit deveria vir 2 cadeiras sendo no total 4 cadeiras, recebi a encomenda vindo apenas 01 Kit (02 Cadeiras) faturado errado, no ato da entrega liguei no Carrefour onde o primeiro atendente informou que estariam averiguando o ocorrido e em at\u00e9 48hs \u00fateis entrariam em contato comigo, ningu\u00e9m me ligou, eu liguei no telefone da NF ( Magazine Roma) a atendente informou que foi uma falha no an\u00fancio e que o pre\u00e7o era apenas de 1 cadeira por kit e n\u00e3o 2, que se eu quisesse poderia cancelar e que eles enviaram um n\u00famero de coleta para retirada do produto!!! COMO ASSIM???? Retornei novamente no Carrefour para informar isso, me disseram que ainda estava dentro do prazo 48hs \u00fateis!!! Como vi que essa empresa Magazine Roma tinha diversas reclama\u00e7\u00f5es aqui no site reclame aqui, resolvi n\u00e3o passar mais raiva, fui comprei em outra loja f\u00edsica mais caro e resolvi cancelar no Carrefour, a\u00ed que veio a minha surpresa, a empresa mandou as cadeiras faltantes, a portaria do meu pr\u00e9dio recebeu, mesmo eu j\u00e1 ter solicitado o cancelamento no Carrefour! Dia 08/12 liguei novamente no Carrefour protocolo 372304646 informando que estava aguardando a coleta do produto cancelado, novamente a mesma desculpa, estamos formalizando a reclama\u00e7\u00e3o e direcionando para \u00e1rea respons\u00e1vel, favor aguardar 48hs \u00fateis que entraram em contato, poxa vida estou com 2 cxs enormes na sala do meu apartamento pr\u00f3ximo do Natal e sem suporte algum, esse prazo j\u00e1 foi e ningu\u00e9m me d\u00e1 uma solu\u00e7\u00e3o para meu problema!!!Estou decepcionando com essa plataforma, nem o Mercado livre trat\u00e1 seus clientes dessa forma!N\u00e3o comprem nessa plataforma, se tiverem problema voc\u00eas v\u00e3o ficar na m\u00e3o!"
+        "titulo": "Carrefour e Sip Com\u00e9rcio cancelaram meu pedido, n\u00e3o avisou e n\u00e3o estornou meu valor at\u00e9 o momento",
+        "texto": "Fiz um pedido no dia 18/12/21 no site Carrefour de um smartphone. O pagamento foi aprovado , debitado no meu cart\u00e3o e at\u00e9 hoje dia 4/1/22 o status do meu pedido s\u00f3 estava em pagamento aprovado e nada de enviado sendo que a entrega seria at\u00e9 dia 8/1. Entrei em contato pelo chat do Carrefour pois at\u00e9 o momento n\u00e3o recebi nenhum e-mail, nenhum contato sobre o meu pedido e estou precisando urgentemente pois tive que pedir um celular emprestado. E a atendente do chat disse que meu pedido foi cancelado automaticamente por falta do produto. S\u00f3 que ngm entrou em contato avisando, nenhum e-mail, nenhuma msg e se eu n\u00e3o tivesse entrado em contato n\u00e3o iria saber disso. Pois tamb\u00e9m n\u00e3o tive nenhum estorno na minha fatura. Estou olhando todos os dias no site e at\u00e9 hj de manh\u00e3 a empresa e o Carrefour estavam vendendo o mesmo produto. E agora disse que est\u00e1 indispon\u00edvel. Depois de 17 dias aguardando ansiosamente meu produto e precisando urgentemente pois preciso para trabalhar, fico sabendo que cancelaram meu pedido, n\u00e3o me avisaram e nem me estornaram o valor. Estou indignada com tanta falta de respeito com o consumidor. Quero uma solu\u00e7\u00e3o urgente, pois se tivesse avisado antes j\u00e1 teria comprado em outro lugar pois n\u00e3o \u00e9 para hobby , \u00e9 para trabalhar!"
       },
       {
-        "titulo": "Carrefour N\u00c3O devolveu valor da compra cancelada",
-        "texto": "Solicitei fazem 16 dias o cancelamento de uma compra logo ap\u00f3s pagamento. A atendente falou que no m\u00e1ximo em 10 dias teria o valor de volta em minha conta. J\u00e1 fazem 16 dias e o Carrefour nada de devolver o dinheiro, s\u00f3 me manda esperar mais e mais. Os 10 dias j\u00e1 passaram e nada do Carrefour devolver."
+        "titulo": "N\u00e3o entregou",
+        "texto": "No dia 09/12/2021, fiz um pedido de um kit de Fraldas Pampers (224 unidades), paguei via boleto do dia 10/12/2021, tendo como data da entrega o dia 29/12/2021.Ocorre que at\u00e9 hoje, 04/01/2022, \u00e0s 22h30mim, n\u00e3o recebi o produto e n\u00e3o fui informado de quando e se ser\u00e1 entregue. Tal situa\u00e7\u00e3o me obrigou \u00e0 compra do produto no com\u00e9rcio local, ou seja, resultando em preju\u00edzos financeiros e perda de tempo."
       },
       {
-        "titulo": "Devolu\u00e7\u00e3o do produto",
-        "texto": "Fiz uma compra com o Carrefour online e gostaria de devolver o produto. Por\u00e9m j\u00e1 estou h\u00e1 mais de uma semana tentando fazer o processo de devolu\u00e7\u00e3o do produto e at\u00e9 o momento n\u00e3o consegui.Ja entrei em contato com o Carrefour 2 vezes (n\u00famero de protocolo: 372927606 e 374051330), por\u00e9m as duas vezes pediram um prazo de 48h para entrarem em em contato comigo novamente para realizar o agendamento de devolu\u00e7\u00e3o da minha compra. Nas duas vezes, o Carrefour n\u00e3o entrou em contato comigo ou seja, n\u00e3o consigo seguir com a devolu\u00e7\u00e3o"
+        "titulo": "Televis\u00e3o Samsung n\u00e3o liga, e n\u00e3o resolvem!",
+        "texto": "No dia 21/11/2021 realizei uma compra de uma televis\u00e3o Samsung atrav\u00e9s do site. Recebi o pedido dentro do prazo, e com 3 dias de uso, a mesma n\u00e3o estava ligando mais, entrei em contato dentro dos 7 dias referente a garantia de troca no site, em primeiro momento pediram para aguardar a coleta. O funcion\u00e1rio veio realizar a coleta em minha resid\u00eancia, por\u00e9m o mesmo notou que havia um pequeno e leve arranhado atr\u00e1s da tv e tamb\u00e9m me informou que aparentemente estava aberta nas laterais ( o que foi visto e dito por ele), informou que n\u00e3o poderia levar por esses motivos, minha filha fez a pr\u00f3prio punho uma retifica\u00e7\u00e3o informando esses detalhes e assinou. O mesmo disse que retornariam para realizar a coleta, visto que agora teriam os detalhes espec\u00edficos e corretos. Esperamos durante 2 semanas e nada de retorno, at\u00e9 que entrei em contato por telefone, desde ent\u00e3o venho sendo informada sempre que tenho que aguardar dois dias \u00fateis, para realizarem o retorno por telefone ou e-mail para a\u00ed sim realizarem a troca. At\u00e9 hoje n\u00e3o tive retorno algum, ligo, chamo no chat, tenho conversas e e-mail pedindo solu\u00e7\u00e3o do meu caso, visto que, j\u00e1 est\u00e1 indo para a segunda parcela que estou pagando de algo que est\u00e1 parado na minha sala. Pe\u00e7o por favor, resolvam isso, n\u00e3o aguento mais ter que entrar em contato para algo que \u00e9 de obriga\u00e7\u00e3o da empresa, preciso de um retorno urgente, sinceramente, n\u00e3o queria ter que ir ao procon, mais n\u00e3o estou vendo solu\u00e7\u00e3o do meu caso. Por favor me ajudem!!"
       },
       {
-        "titulo": "Pedido cancelado",
-        "texto": "Faz mais de 2 semana que estou tentando comprar online um cooktop e uma geladeira, j\u00e1 tentei no Carrefour, magazine luiza, casas Bahia no site da brastemp, mais sempre da compra cancelada, meus cart\u00f5es s\u00e3o aprovados, tanto que desconta do limite, mais logo em seguida da compra aparece cancelada, j\u00e1 conferi meus dados v\u00e1rias vezes e esta tudo certo, j\u00e1 liguei pra operadora dos meus cart\u00f5es e eles dizem que as compras est\u00e3o sendo autorizada, ligo pras lojas eles dizem que a operadora do meu cart\u00e3o que cancelou, a\u00ed fica sempre nessa de um joga pro outro e ningu\u00e9m resolve nada, j\u00e1 perdi todas as promo\u00e7\u00f5es da Black Friday por esse motivo, j\u00e1 n\u00e3o sei mais a quem recorrer, \u00fanica loja que ainda consigo comprar e aprova na hora \u00e9 o mercado livre, algu\u00e9m pode me ajudar, pois a equipe de an\u00e1lise nunca me liga pra confirmar nem um dos meus dados, fico com o meu celular direto, j\u00e1 comprei at\u00e9 outro n\u00famero pra ficar com 2 n\u00famero pra n\u00e3o dizer que eu n\u00e3o atendi meu celular, inclusive meu celular \u00e9 comercial e tenho que ficar com ele direto atendendo meus clientes, queria que algu\u00e9m me ajudasse."
+        "titulo": "Bicicleta quadro empenado comprada no Carrefour",
+        "texto": "No dia 5/12/21 comprei duas bicicletas Caloi no site do Carrefour para de presente de natal para meus filhos , por\u00e9m as bicicletas vieram com o quadro um pouco empenado, pedi pra fazer a troca das duas bicicletas , quando vieram buscar da primeira vez ia levar s\u00f3 1 , mas eu falei q era as duas a transportadora n\u00e3o retirou, fiz uma nova reclama\u00e7\u00e3o q era pra levar as duas a\u00ed eles vieram pela segunda vez e levaram as duas e agora eles est\u00e3o me mandando 1 bicicleta sendo q eu comprei 2."
       },
       {
-        "titulo": "Atrasam a entrega e cancelam o pedido arbitrariamente",
-        "texto": "Realizei um pedido de 3 Kit de Fraldas Pampers XXG Confort Sec Super - 224 Unidades cada no dia 26/11, com previs\u00e3o de entrega para at\u00e9 05/12 na unidade do shopping Boulevard em Belo Horizonte. Eu tnha previs\u00e3o de viajar de avi\u00e3o no dia 11/12 e contava com essa entrega para a viagem, por\u00e9m para minha surpresa, no dia 08/12, j\u00e1 com 3 dias de atraso, recebi um e-mail informando que minha data prevista de entrega havia sido alterada para 13/12!!!! Entrei em contato solicitando que liberassem a entrega de ao menos 1 pacote pela rede Carrefour e que depois descontassem da entrega, por\u00e9m disseram que n\u00e3o podiam fazer nada, que abririam um protocolo para verificar o motivo do atraso (como se isso fizesse algum diferen\u00e7a). Como n\u00e3o podia mais esperar, fiz a compra de produto equivalente em outro local e ainda aceitei o atraso sem abrir reclama\u00e7\u00e3o. Assim, eu buscaria o pedido ap\u00f3s retornar de minha viagem no dia 22/12. Por\u00e9m no dia 11/12, j\u00e1 no aeroporto a caminho de minha viagem, recebi um e-mail informando que meu pedido havia chegado ao ponto de retirada e que o prazo para retirada era at\u00e9 18/12 (quando ainda estarei fora da cidade, em outro estado inclusive). Mais um vez indignada entrei em contato pelo chat solicitando que prorrogassem o prazo para dia 22/12 ou que entregassem meu pedido na minha residencia, que tem portaria e poderia receber por mim, j\u00e1 que minha incapacidade em busc\u00e1-lo no prazo adequado decorreu do atraso de culpa \u00fanica e exclusiva do Carrefour. Mais uma vez fui informada pela atendente que &quot;n\u00e3o poderia fazer nada&quot; e que se n\u00e3o retirasse o pedido at\u00e9 18/12 o mesmo seria cancelado!!!! Me pergunto se a empresa tem conhecimento do CDC que informa que eu tenho direito a receber o produto que comprei no prazo estipulado pela empresa. Mas a log\u00edstica do Carrefour s\u00f3 n\u00e3o consegue ser pior que seu SAC. Sendo assim, n\u00e3o me resta outra sa\u00edda a n\u00e3o ser recorrer a este canal para tentar alguma provid\u00eancia pela empresa e alertar os demais consumidores sobre os riscos de comprarem na mesma."
+        "titulo": "Estorno",
+        "texto": "Fiz o pedido e veio faltando itens, n\u00e3o consegui falar no SACTem possibilidade de envio ou estorno?N\u00e3o recebi a \u00e1gua e os refrigerantes"
       }
-    ]
+    ],
+    "Percentual de outro problema": "44.88%",
+    "Percentual de outro tipo de produto/servi\u00e7o": "48.63%",
+    "Percentual de n\u00e3o encontrei meu problema": "40.48%"
   },
   {
     "Nome Da Loja": "casas-bahia-loja-online",
-    "Total de reclama\u00e7oes": "197071",
-    "Reclama\u00e7\u00f5es Respondidas": "96.6%",
+    "Total de reclama\u00e7oes": "198144",
+    "Reclama\u00e7\u00f5es Respondidas": "95.5%",
     "Voltariam a fazer negogicio": "53.3%",
-    "Indice de solu\u00e7ao": "77.5%",
+    "Indice de solu\u00e7ao": "77.4%",
     "Nota do consumidor": "5.17",
-    "Reputa\u00e7\u00e3o": "6.9",
-    "Percentual Principais Problemas": {
-      "Outro problema": "15.08%",
-      "Outro Tipo de produto/Servi\u00e7o": "18.83%",
-      "Celulares e Smartphones": "15.36%"
-    },
-    "Principais Problemas": {
-      "Tipos de problemas": [
-        {
-          "Outro problema": "29732"
-        },
-        {
-          "Atraso na entrega": "29293"
-        },
-        {
-          "Produto n\u00e3o recebido": "14139"
-        },
-        {
-          "Estorno do valor pago": "10687"
-        },
-        {
-          "Troca-Devolu\u00e7\u00e3o de produto": "6181"
-        }
-      ],
-      "Produtos e Servicos": [
-        {
-          "Outro Tipo de produto/Servi\u00e7o": "37138"
-        },
-        {
-          "Celular": "14574"
-        },
-        {
-          "Smartphone": "14028"
-        },
-        {
-          "TV": "8861"
-        },
-        {
-          "Geladeira-Refrigerador": "6481"
-        }
-      ],
-      "Categorias": [
-        {
-          "Celulares e Smartphones": "30297"
-        },
-        {
-          "Eletrodom\u00e9sticos": "29871"
-        },
-        {
-          "N\u00e3o encontrei meu problema": "21344"
-        },
-        {
-          "Eletroeletr\u00f4nicos": "15240"
-        },
-        {
-          "Eletroport\u00e1teis": "11845"
-        }
-      ]
-    },
+    "Reputa\u00e7\u00e3o": "6.8",
     "Reclamacoes": [
       {
-        "titulo": "Saiu para entrega h\u00e1 10 dias e nunca foi entregue",
-        "texto": "Compre pelo app do Banco Inter.Sei que o problema n\u00e3o \u00e9 do Inter nem mesmo com a Casas Bahia, \u00e9 completamente da transportadora Total Express.Mostra que saiu para entrega no dia 04/12 j\u00e1 se passaram 10 dias e nada de ser entregue.A transportadora n\u00e3o tem um rastreamento preciso, a gente n\u00e3o fica ref\u00e9m da entrega e mal podemos marcar compromisso com receio do pedido chegar e n\u00e3o estar em casa e retornar.Al\u00e9m da forma de rastreamento ser a mais rid\u00edcula poss\u00edvel, qualquer outra transportadora \u00e9 mais preciso, n\u00e3o consegue contato algum com a transportadora.Mais uma vez refor\u00e7ando: Casa Bahia e Banco inter cumpriram com o pedido, o problema \u00e9 a transportadora. Basta uma busca simples pelo nome da trasportadora em qualquer rede social s\u00f3 haver\u00e1 reclama\u00e7\u00e3o"
+        "titulo": "Transtorno na entrega",
+        "texto": "Eu havia escolhido Retirada R\u00e1pida por ser no per\u00edodo de duas horas. Assim que comprei e aprovou meu pedido o app alterou para 5 dias \u00fateis. Exijo a entrega em meu endere\u00e7o pelo transtorno causado."
       },
       {
-        "titulo": "Entrega atrasada",
-        "texto": "Boa tarde. Estou aguardando \u00e0 alguns dias a chegada da minha tv comprada no dia 29/11. Al\u00e9m da demora do envio via alguma transportadora foi notado que desde o in\u00edcio o app indicava a entrega no dia 10/12. Passando alguns dias, foi visto que alteraram a data do dia 10 para o dia 15. Riscaram a data do dia 15 como se fosse algo positivo indicando novamente o dia 10. Ap\u00f3s mais alguns dias novamente a mesma situa\u00e7\u00e3o, s\u00f3 que aumentaram para o dia 20/12 riscaram novamente essa data indicando diminui\u00e7\u00e3o no tempo de entrega, e mostraram a data dia 10. N\u00e3o sei o intuito dessa informa\u00e7\u00e3o posterior, mas at\u00e9 agora nada da tv. Tiveram o trabalho de alterar as datas para dar o intuito de r\u00e1pida entrega s\u00f3 que se esqueceram de entregar nesta data..Sem falar em uma transportadora que n\u00e3o informa atualiza\u00e7\u00f5es do que esta havendo e sem um contato para atendimento do suporte. Qu\u00ea preju\u00edzo comprar nessa loja."
+        "titulo": "Pagamento em PIX que ainda aguarda confirma\u00e7\u00e3o",
+        "texto": "No dia 23/12/21 realizei compra de uma TV 50&quot; para entrega em 24h registrada sob o n\u00famero de pedido 306176968.Paguei com PIX. (Vale ressaltar que nas compras a serem pagas por PIX \u00e9 exibida uma tela que s\u00f3 muda com n\u00famero do pedido ap\u00f3s o sistema detectar automaticamente o pagamento. Caso n\u00e3o seja pago a tela n\u00e3o muda e o pedido n\u00e3o \u00e9 gerado.)Ap\u00f3s o sistema reconhecer o pagamento me foi enviado um e-mail confirmando a entrega do produto no dia 24/12.Vale dizer que a TV \u00e9 um presente para meu Filho de 7 anos que pediu um videogame e uma TV em cartinha para o Papai Noel. (N\u00e3o temos SmarTV em casa e por esse motivo ele pediu videogame com TV, j\u00e1 que ela \u00e9 fundamental para usar o videogame que funciona com cabo HDMI que n\u00e3o tem na nossa TV de tubo que \u00e9 anal\u00f3gica. J\u00e1 o videogame eu comprei atrav\u00e9s do site OLX).No dia 24/12 verifiquei que meu pedido ainda aguardava confirma\u00e7\u00e3o de pagamento e portanto entrei em contato com a Casas Bahia e me foi dito que a TV n\u00e3o chegaria no dia 24 e seria necess\u00e1rio aguardar at\u00e9 o dia 31/12 para uma resposta.Como a TV n\u00e3o chegaria, tive que escrever uma Carta do Papai Noel para meu filho na noite do dia 24/12 e coloquei na caixa do videogame dizendo que como a TV era grande, n\u00e3o caberia no tren\u00f3. Enfim, quem \u00e9 pai pode imaginar a situa\u00e7\u00e3o No dia 31/12 foi feito novo contato e me foi dito para aguardar envio do meu problema para &quot;uma inst\u00e2ncia superior&quot; e que teriam resposta em 1 dia \u00fatil. (Enviei comprovante do PIX; E-Mail com n\u00famero do pedido em PDF, captura de tela do site com o andamento do pedido e prazo de entrega para o dia 24/12, juntamente com outros dados que me foram solicitados).No dia 03/01/22 foi feito novo contato e me foi dito para aguardar mais 1 dia \u00fatil.Retornei o contato no dia 05/01 e a atendente me disse para que eu entre em contato somente ap\u00f3s o dia 10/01.Em resumo, fiz uma compra de R$ 2.383,95 no PIX cujo sistema das Casas Bahia reconhece automaticamente, haja vista que somente ap\u00f3s o reconhecimento do pagamento a tela muda com a autoriza\u00e7\u00e3o do pedido e at\u00e9 o momento ningu\u00e9m me diz o que est\u00e1 havendo e meu filho aguarda o presente dele.Saliento que n\u00e3o desejo cancelamento da compra. N\u00e3o desejo devolu\u00e7\u00e3o de dinheiro. Quero o produto pelo qual paguei.Apesar de ser advogado, tento ao m\u00e1ximo resolver os problemas junto \u00e0s empresas e ressalto que essa \u00e9 minha \u00faltima tentativa antes de judicializar a quest\u00e3o.Aguardo retorno."
       },
       {
-        "titulo": "Mercadoria n\u00e3o entregue",
-        "texto": "Usei uma pontua\u00e7\u00e3o que tinha junto ao c6 bank, para fazer aquisi\u00e7\u00e3o de um fone de ouvido, conforme print consta que a mercadoria foi entregue e n\u00e3o chegou at\u00e9 ent\u00e3o.Tentei notificar \u00e0 Casas Bahia, por\u00e9m o site \u00e9 complicado de usar, pediu cadastro e dentre outras coisas, para dificultar o registro da reclam\u00e7\u00e3o."
+        "titulo": "Falta de respeito e informa\u00e7\u00f5es",
+        "texto": "Boa noite!Fiz uma compra de 2 produtos no site do app casas Bahia por volta do dia 20 de dezembro e n\u00e3o tive nem a entrega de um dos pedidos por informa\u00e7\u00e3o incorreto de endere\u00e7o, mais o engra\u00e7ado \u00e9 que o outro produto chegou no meu endere\u00e7o e por coincid\u00eancia o 2 produtos foram comprados no mesmo momento na mesma hora e pedido para entregar no mesmo endere\u00e7o.Por fim hoje e dia 06/01 mas de 2 semana solicitado o cancelamento e o reembolso do meu dinheiro e eu n\u00e3o o tive nem contato dessa porcaria de empresa que faz os consumidores de idiota e nem o meu dinheiro.Infelizmente sou mais um consumidore entre tantos que \u00e9 [Editado pelo Reclame Aqui] nesse pais lixo que vivemos.O valor n\u00e3o \u00e9 muito e pouco gra\u00e7as a Deus ainda n\u00e3o foi o produto caro que n\u00e3o entregaram mas engra\u00e7ado \u00e9 que \u00e9 um descaso com os clientes..Uma vergonha.."
       },
       {
-        "titulo": "N\u00e3o entregaram a lavadora desde 28/10/2021",
-        "texto": "Fiz a compra de uma lavadora de roupas Electrolux LAC13Kg 12 programas branca, no site da casas bahia, no dia 16/10/2021 \u00e0s 13:33 e foi realizado a pagamento no mesmo dia \u00e0s 14:46. O pagamento foi aprovado no dia 19/10/2021 \u00e0s 05:20. Deram como prazo de entrega at\u00e9 o dia 28 de outubro de 2021. Contudo, n\u00e3o houve a entrega na data aprazada. Em virtude disso, fiz reclama\u00e7\u00e3o no pr\u00f3prio site para sanber o motivo da demora na entrega (protocolo 211022-003668).Em ressposta a reclama\u00e7\u00e3o - no dia 06/11/2021 \u00e0s 11:20-, foi informado que n\u00e3o tinham a mercadoria no estoque.Dessa forma, estou at\u00e9 o presente momento sem receber a lavadora que eu paguei."
+        "titulo": "Compra nao entregue",
+        "texto": "Comprei uma panela de press\u00e3o de 7litros no dia 22 /11/2021 na casas Bahia olaine e at\u00e9 agora nao recebi e eles colocaram como entregou a atendente das casas Bahia me ligou no dia 30 de dezembro 2021 perguntando se recebi a encomenda eu disse que nao ai ela falou que foi entregue para uma mulher por nome de Carla Silva eu falei nao conhe\u00e7o ai estou tentando falar com eles mas esta dif\u00edcil e j\u00e1 paguei 2 presta\u00e7\u00e3o e nada da panela eles alegaram que veio entregar mas nao tinha ningu\u00e9m e mentira estou em casa todos os dias poque trabalho a noite e eles entrega at\u00e9 as 18horas falarmos que veio 3 vezes mas e tudo mentira ainda deixei o meu contato com eles.essa \u00e9 minha hist\u00f3ria muito obrigado."
       },
       {
-        "titulo": "TV quebrada fazendo companhia no natal e ano novo",
-        "texto": "Estou tentando resolver com as Casas Bahia desde o dia 29 de novembro o caso da TV que comprei e veio com defeito. Nesse mesmo dia foi meu contato pedindo o cancelamento e o prazo para a retirada do produto era at\u00e9 o dia 08 de dezembro. O que n\u00e3o aconteceu. Hoje, depois de 5 dias de atraso na retirada do produto, As Casas Bahia vieram informar que a retirada do meu pedido est\u00e1 agendada para o dia 14 de JANEIRO. Daqui h\u00e1 1 m\u00eas. E eu preciso ent\u00e3o passar natal e ano novo com uma caixa que mede 1.90 de largura em minha sala.Sendo que tenho viagem agendada para o in\u00edcio de janeiro.Infelizmente precisarei entrar com uma a\u00e7\u00e3o e espero conseguir uma tutela antecipada para me livrar do televisor antes dessa data, pois os transtornos que estou tendo devido as falhas dessa empresa s\u00e3o absolutamente desrespeitosos."
+        "titulo": "Meu produto n\u00e3o chegou",
+        "texto": "Como o produto n\u00e3o chegou, entrei em contato com v\u00e1rios vendedores, que n\u00e3o conseguiram me ajudar, ent\u00e3o fiz uma reclama\u00e7\u00e3o aqui, no mesmo dia a empresa me enviou um e mail, perguntando a melhor forma de entrar em contato, respondi e desde ent\u00e3o ningu\u00e9m entrou em contato. Estou aguardando, mas o tempo est\u00e1 passando e nada."
       }
-    ]
+    ],
+    "Percentual de outro problema": "14.99%",
+    "Percentual de outro tipo de produto/servi\u00e7o": "19.59%",
+    "Percentual de celulares e smartphones": "15.3%"
   },
   {
     "Nome Da Loja": "amazon",
-    "Total de reclama\u00e7oes": "138430",
+    "Total de reclama\u00e7oes": "143487",
     "Reclama\u00e7\u00f5es Respondidas": "99.3%",
     "Voltariam a fazer negogicio": "77.7%",
     "Indice de solu\u00e7ao": "82.5%",
     "Nota do consumidor": "7.41",
     "Reputa\u00e7\u00e3o": "8.2",
-    "Percentual Principais Problemas": {
-      "Outro problema": "17.64%",
-      "Outro Tipo de produto/Servi\u00e7o": "30.03%",
-      "N\u00e3o encontrei meu problema": "20.52%"
-    },
-    "Principais Problemas": {
-      "Tipos de problemas": [
-        {
-          "Outro problema": "24453"
-        },
-        {
-          "Atraso na entrega": "9598"
-        },
-        {
-          "Produto n\u00e3o recebido": "8345"
-        },
-        {
-          "Estorno do valor pago": "6092"
-        },
-        {
-          "Propaganda enganosa": "3283"
-        }
-      ],
-      "Produtos e Servicos": [
-        {
-          "Outro Tipo de produto/Servi\u00e7o": "41627"
-        },
-        {
-          "Livros": "9219"
-        },
-        {
-          "Pagamentos e Documentos": "6467"
-        },
-        {
-          "Canais de Atendimento": "4633"
-        },
-        {
-          "Outros": "3133"
-        }
-      ],
-      "Categorias": [
-        {
-          "N\u00e3o encontrei meu problema": "28444"
-        },
-        {
-          "Problemas com o Site": "15110"
-        },
-        {
-          "Livros": "11541"
-        },
-        {
-          "Problemas com o Atendimento": "10565"
-        },
-        {
-          "Eletroeletr\u00f4nicos": "6989"
-        }
-      ]
-    },
     "Reclamacoes": [
       {
-        "titulo": "Voc\u00ea n\u00e3o est\u00e1 qualificado para solicitar um reembolso",
-        "texto": "Comprei alguns livros e um n\u00e3o foi entregue, ao informar no site da Amazon que o produto ainda n\u00e3o foi recebido tenho como resposta apenas &quot;Voc\u00ea n\u00e3o est\u00e1 qualificado para solicitar um reembolso&quot;.Quando procuro pelo c\u00f3digo de rastreamento do produto o site dos correio informa que o objeto n\u00e3o foi localizado.Aguardei pacientemente por esse produto, que teve um valor consider\u00e1vel, e agora al\u00e9m de n\u00e3o ter recebido me sinto feito de palha\u00e7o pela equipe Amazon que se quer presta um atendimento decente e me aparece apenas com mensagens prontas.Gostaria de um retorno da Amazon a respeito da compra, afinal de contas a compra foi feita atrav\u00e9s do site deles.. Logo, acredito que a responsabilidade de SAC seja inteiramente deles."
+        "titulo": "TRANSPORTADORA P\u00c9SSIMA",
+        "texto": "Cara Amazon, fa\u00e7o compras com voc\u00eas com certa frequ\u00eancia em meu nome ou no da minha m\u00e3e, a transportadora Total Express entrou em contato comigo por mensagem privada, mas n\u00e3o resolve nada, estou exausta de esperar eles, a \u00faltima mensagem que mandei para a gerente de m\u00eddias sociais deles foi: Boa noite, quero saber se a minha entrega vai ser feita. Todo dia entro no site de voc\u00eas e diz que meu pacote est\u00e1 em rota ou em processo de entrega, tenho ficado em casa para receber o pacote a merc\u00ea do entregador de voc\u00eas, e esse vem sendo um problema recorrente dadas tantas reclama\u00e7\u00f5es. Quero saber quando voc\u00eas v\u00e3o entregar e quero um prazo real, SEM MENTIRAS. N\u00e3o me diga que o entregador n\u00e3o achou o endere\u00e7o, pois outros j\u00e1 entregaram aqui no nome da transportadora de voc\u00eas. Isso que voc\u00eas fazem \u00e9 um absurdo com o consumidor, j\u00e1 registrei tantas reclama\u00e7\u00f5es nesse site que nem posso mais reclamar, quero respostas que sejam verdadeiras e se minha encomenda n\u00e3o for entregue a mim eu entrarei com um processo contra voc\u00eas, j\u00e1 tomei as provid\u00eancias e estou acionando meu advogado.Quero saber se a minha entrega vai ser feita? Sempre compro com voc\u00eas, estou extremamente estressada com essa transportadora."
       },
       {
-        "titulo": "N\u00e3o cumprimento prazo",
-        "texto": "Sou cliente Amazon prime precisava comprar o presente de Natal do meu filho poderia comprar em v\u00e1rias lojas escolhi a Amazon porque era a que entregava mais r\u00e1pido pois estou com viagem marcada. A previs\u00e3o era 6-10 dez dia 9 n\u00e3o constava postado entrei em contato informaram que a entrega seria mais tardar dia 11 fiquei tranquila para minha surpresa dia 11 recebi uma mensagem alterando a entrega para dia 20 sendo que viajo dia 18 hoje j\u00e1 \u00e9 dia 14 e o presente de Natal do meu filho n\u00e3o consta despachado se trata de um valor alto na qual prometi para meu filho estou muito decepcionada pois sempre fui cliente Amazon e nunca antes havia passado por este constrangimento desvio de informa\u00e7\u00f5es."
+        "titulo": "Conta suspensa",
+        "texto": "A um tempo fiz uma compra pelo site e deu tudo certo, depois fui efetuar outra compra, mas tive que alterar o endere\u00e7o, pois estou de mudan\u00e7a, resolvi tamb\u00e9m, compra em outro cart\u00e3o, diferente do primeiro, ate ai blz, depois umas horas, recebo email dizendo que minha conta foi suspensa e pediu para preencher um ficha de cadastro, fiz por DUAS vezes e nada foi resolvido."
       },
       {
-        "titulo": "Verifica\u00e7\u00e3o de conta",
-        "texto": "Eu estou tentando h\u00e1 dias entrar na minha conta da Amazon pelo celular, Kindle e notebook e todos os aparelhos pedem o c\u00f3digo de verifica\u00e7\u00e3o atrav\u00e9s do n\u00famero do meu celular que n\u00e3o possuo mais, estou tentando no fale conosco mas para voc\u00ea ter acesso voc\u00ea tem que ESTAR LOGADO NA CONTA que eu n\u00e3o consigo porque pede o c\u00f3digo de valida\u00e7\u00e3o. Eu gostaria de acessar minha conta para trocar o n\u00famero do telefone."
+        "titulo": "Cobran\u00e7a indevida",
+        "texto": "Mas uma vez foi feita uma cobran\u00e7a indevida, cobraram 16,90 4/01 do Amazon music, sendo que n\u00e3o contratei, apenas tenho contratado o Amazon Prime de 9,90"
       },
       {
-        "titulo": "Nunca recebi o pedido, mas est\u00e1 como entregue.",
-        "texto": "Eu havia feito dois pedidos. Um conjunto de canetas posca e um verniz fixador acrilfix. Recebi uma liga\u00e7\u00e3o quando o pacote chegou, sinalizei que podia deixar na caixa de correio j\u00e1 que eu n\u00e3o estava. Quando cheguei, recebi as canetas posca. Tudo certinho. Por\u00e9m quando fui olhar no aplicativo tanto o conjunto quanto o verniz estavam como entregues. Mas nunca recebi o verniz. Apenas as canetas. N\u00e3o consegui achar no pedido nenhum lugar para tentar resolver o problema. Coloquei na avalia\u00e7\u00e3o do produto, mas at\u00e9 agora n\u00e3o consegui nem solicitar o reembolso."
+        "titulo": "Cobran\u00e7a indevida",
+        "texto": "Pago o plano mensalmente no valor de R$9,90. E no dia 04/01/2022 a Amazon.com.br digital est\u00e1 me cobrando um valor de R$19,90. Sendo que n\u00e3o foi realizado nenhuma comprar. E n\u00e3o compreendi o motivo da cobran\u00e7a."
       },
       {
-        "titulo": "Cadeira com pe\u00e7a faltante",
-        "texto": "A cadeira veio sem a pe\u00e7a do encaixe do assento ao encosto. A amazon cagou pro prob."
+        "titulo": "Demora na entrega",
+        "texto": "A entrega estava prevista para dia 04/01/2022, adiada para 05 a 08/01/2022 e, na \u00faltima atualiza\u00e7\u00e3o, aparece at\u00e9 10/01/2022. J\u00e1 foi feita a tentativa de contato com a empresa, por\u00e9m sem sucesso. Solicito a devida explica\u00e7\u00e3o e a resolu\u00e7\u00e3o do problema."
       }
-    ]
+    ],
+    "Percentual de outro problema": "17%",
+    "Percentual de outro tipo de produto/servi\u00e7o": "30.84%",
+    "Percentual de n\u00e3o encontrei meu problema": "20.97%"
   },
   {
     "Nome Da Loja": "extra-loja-online",
-    "Total de reclama\u00e7oes": "59581",
-    "Reclama\u00e7\u00f5es Respondidas": "98.2%",
-    "Voltariam a fazer negogicio": "52.8%",
-    "Indice de solu\u00e7ao": "78.6%",
-    "Nota do consumidor": "5.16",
+    "Total de reclama\u00e7oes": "58048",
+    "Reclama\u00e7\u00f5es Respondidas": "97.6%",
+    "Voltariam a fazer negogicio": "52.9%",
+    "Indice de solu\u00e7ao": "78.7%",
+    "Nota do consumidor": "5.17",
     "Reputa\u00e7\u00e3o": "6.9",
-    "Percentual Principais Problemas": {
-      "Atraso na entrega": "16.36%",
-      "Outro Tipo de produto/Servi\u00e7o": "13.33%",
-      "Celulares e Smartphones": "12.94%"
-    },
-    "Principais Problemas": {
-      "Tipos de problemas": [
-        {
-          "Atraso na entrega": "9748"
-        },
-        {
-          "Outro problema": "7017"
-        },
-        {
-          "Produto n\u00e3o recebido": "5447"
-        },
-        {
-          "Estorno do valor pago": "3859"
-        },
-        {
-          "Troca-Devolu\u00e7\u00e3o de produto": "2199"
-        }
-      ],
-      "Produtos e Servicos": [
-        {
-          "Outro Tipo de produto/Servi\u00e7o": "7946"
-        },
-        {
-          "Smartphone": "3685"
-        },
-        {
-          "Celular": "3611"
-        },
-        {
-          "TV": "2698"
-        },
-        {
-          "Geladeira-Refrigerador": "1574"
-        }
-      ],
-      "Categorias": [
-        {
-          "Celulares e Smartphones": "7711"
-        },
-        {
-          "Eletrodom\u00e9sticos": "7392"
-        },
-        {
-          "Eletroeletr\u00f4nicos": "4846"
-        },
-        {
-          "Eletroport\u00e1teis": "3357"
-        },
-        {
-          "N\u00e3o encontrei meu problema": "3137"
-        }
-      ]
-    },
     "Reclamacoes": [
       {
-        "titulo": "PEDIDO CONSTA COMO ENTREGUE, MAS N\u00c3O RECEBI.",
-        "texto": "No rastreamento costa que o pedido foi entregue dia 30/11/21. O pacote n\u00e3o foi recebido no endere\u00e7o do destinat\u00e1rio.Contatei a empresa dia 02/12/2021 e me deram um prazo de 3 dias \u00fateis, liguei novamente e disseram ser 6 dias \u00fateis. Dia 10/12/21 liguei novamente e me pediram at\u00e9 dia 13/12/2021. Liguei hoje novamente e me pediram para aguardar.Eu quero retirar o produto em uma loja f\u00edsica, ou quero cancelar o a compra e ter o reembolso. Estou pagando por algo que n\u00e3o recebi."
+        "titulo": "Compra de m\u00e1quina de lavar n\u00e3o recebi e cancelaram o pedido",
+        "texto": "Comprei uma m\u00e1quina de lavar no dia 27/11/21 com prazo de entrega dia 17/12, n\u00e3o chegou. Reclamei para a empresa disseram que era de empresa parceira, mas eu comprei no site do Extra. Segundo informa\u00e7\u00f5es peri\u00f3dicas do site Extra enviou a Nota Fiscal, que tenho c\u00f3pia, pelas informa\u00e7\u00f5es enviadas , que o produto j\u00e1 estava com a transportadora. Depois de muita conversa pelo WhatsApp disseram que haviam cancelado a compra e retornado o pagamento da parcela paga. Eu disse que n\u00e3o queria o cancelamento e nem o estorno da parcela parcela j\u00e1 debitada no cart\u00e3o. Disseram que se eu quisesse teria que fazer um novo pedido. Eu disse que somente compraria pelo pre\u00e7o que havia comprado com eles na Black Fridey, disseram que iriam retornar, mas at\u00e9 hoje nada. Tenho urg\u00eancia da m\u00e1quina, pois a minha antiga em uso, est\u00e1 com defeito, j\u00e1 por duas vezes fiz o reparo e n\u00e3o adiantou.Eu disse a eles que iria no Reclameaqui e no Procon. Tenho todas as provas, desde a compra e aprova\u00e7\u00e3o da compra."
       },
       {
-        "titulo": "Pedido entregue com atraso e com a tela trincada. Quando acho que v\u00e3o resolver fazem o registro errado.",
-        "texto": "Fiz a compra de uma TV 55 no dia 21/11 com entrega prevista para 30/11, fiz pagamento com pix, tudo dentro do normal. No dia 30/11 alteraram a entrega para dia 02/12, nada da entrega. Dia 02/12 registrei uma reclama\u00e7\u00e3o e me passaram o site da transportadora pra rastrear. No dia 06/12 entregaram a TV, quando abri a caixa vi que a tela estava trincada logo em cima, nem retirei o produto da caixa. Entrei em contato por whatsapp relatando o ocorrido e solicitando a coleta do produto danificado e meu dinheiro de volta, visto que esperei muito pra receber e ainda chegou com defeito. Enquanto registrava a solicita\u00e7\u00e3o o atendente n\u00e3o terminou de me passar as informa\u00e7\u00f5es, fiquei sem saber se tinha registrado pois terminou o hor\u00e1rio de expediente. No dia seguinte entrei em contato e me informaram o protocolo 211203-003992 e pediram pra aguardar 4 dias \u00fateis, hoje dia 14/12 (6 dia \u00fatil), como NINGUEM falou comigo, nem por email, nem por telefone, resolvi entrar em contato.- Por whatsapp: Ap\u00f3s aguardar, aguardar e aguardar, a \u00fanica coisa que me disseram foi o mesmo n\u00famero de protocolo, pedindo pra aguardar MAIS 4 DIAS \u00daTEIS.- Por Telefone: Ap\u00f3s explicar todo o acima, me informaram que o protocolo tinha sido registrado HOJE e que eu teria que aguardar os 4 DIAS \u00daTEIS. Questionei, falei das provas do que eu tinha registrado no dia 06 e a atendente me disse que tinha q esperar a loja responder, que eles apenas podiam registrar no sistema. - No chat do Reclame aqui: Falei com a atendente Scarlet, que ap\u00f3s eu mandar prints, relatar tudo e n\u00e3o aceitar mais esperar 4 DIAS \u00daTEIS, ela registrou a solicita\u00e7\u00e3o de devolu\u00e7\u00e3o, pegou os dados da minha conta e disse que eu receberia um email com as informa\u00e7\u00f5es PROTOCOLO 211214-020052. OK! Recebi um email logo em seguida, com as informa\u00e7\u00f5es de OUTRA TV, que havia comprado em OUTRO SITE (CASAS BAHIA), COM OUTRO N\u00daMERO DE PEDIDO E ETC. - Ainda no chat do Reclame aqui: Falei com Victoria Pontes, expliquei que o pedido estava se referindo a outro produto que n\u00e3o estava com defeito, pedi que alterasse o produto com urg\u00eancia, mostrei por print qual era, pediram pra eu aguardar e ME DESCONECTARAM.- Mais uma vez no chat do Reclame aqui: Entrei NOVAMENTE no chat do reclame aqui e falei com Daniele, expliquei TUDO DE NOVO e MAIS UMA VEZ ME DESCONECTARAM.SOLICITO CONTATO COM URG\u00caNCIA, UMA VEZ QUE O PRODUTO A SER COLETADO N\u00c3O \u00c9 INFORMADO NO EMAIL RECEBIDO."
+        "titulo": "Coifa n\u00e3o chegou. 0800 desliga na cara!",
+        "texto": "Comprei no dia 03/01/2022 uma Coifa de Parede Midea ProTouch RTA91 Vidro Inox - 90 cm. O pedido chegaria no dia 04/01/2022 com um dia \u00fatil. Recebi o c\u00f3digo de rastreamento nome da transportadora no e-mail e data de entrega. Mas na pr\u00e1tica n\u00e3o chegou. Fiquei dois dias ligando para o 0800 que n\u00e3o funciona e desligam na cara depois da grava\u00e7\u00e3o. A transportadora tem um monte de reclama\u00e7\u00f5es no portal reclame aqui. Pelo site me passaram 6 dias \u00fateis para me responder. Empresa com despreparo total no atendimento ao cliente e sem compromisso com o cliente. Gostaria de uma solu\u00e7\u00e3o ou a devolu\u00e7\u00e3o do meu dinheiro. Nunca mais compro nada dessa empresa. N\u00e3o comprem nada no extra.com.br. Nem se ela for vender e entregar sem intermedi\u00e1rios como no meu caso. Furada total."
       },
       {
-        "titulo": "Cancelamento da compra indevido",
-        "texto": "Comprei uma caixa de som Alexa 4 gera\u00e7\u00e3o. Recebi produto com defeito, bateria n\u00e3o carregava. Dia 11/12 liguei pro extra. Atrav\u00e9s do protocolo 211211011773 fui orientado que aguardasse at\u00e9 12hs um e-mail da empresa me orientando a fazer a troca na loja do Ponto Frio da Rua Dias da Cruz, Meier - RJ.Dia 12/12/21 entrei em contato com Extra atrav\u00e9s de mensagem WhatsApp perguntando pelo e-mail orienta\u00e7\u00e3o pois n\u00e3o havia recebido. Atendente Matheus informou que pedido de troca n\u00e3o havia sido registrado corretamente. Fui orientado a levar o produto na loja 211212-002010 (protocolo de atendimento).13/12/21 Levei o produto na loja e fui atendimento pelo Sr. Guilherme que constatou defeito no produto, emitiu nota fiscal de devolu\u00e7\u00e3o e pediu que aguardasse 12hs para gerar novo pedido a ser enviado por SMS ou e-mail.14/12/21 Como n\u00e3o recebi nenhum comunicado, entro em contato com Extra e atrav\u00e9s do protocolo 211214-029381 Sra. Fernanda informa que meu pedido foi cancelado e disponibilizado um vale no valor da minha compra para ser utilizado em nova compra. Ao entrar no site, constato que o produto aumentou de pre\u00e7o, informo a Sra. Fernanda, que diz n\u00e3o poder fazer nada."
+        "titulo": "Falta de respeito ao direito do consumidor.",
+        "texto": "Em 01.10.2020, h\u00e1 mais de um ano. Acreditem, mais de um ano omprei uma estante com nichos. Solicitei a troca no per\u00edodo certo. Fiz tudo corretamente. Solicitei a troca, porque deixaram a estante no ch\u00e3o da minha sala virada pra baixo. O entregador nem queria subir com o produto, queria que eu fosse na portaria buscar uma estante super pesada. Acabou subindo e deixou deitada no meio da sala, nem pude conferir de t\u00e3o pesada. No dia seguinte Solicitei ajuda de uma pessoa e virei a estante, pra minha surpresa o produto tava com a embalagem rasgada em v\u00e1rias partes e na ponta da estante estava quebrada, bem na base da estante. N\u00e3o era um arranh\u00e3o, era um peda\u00e7o da madeira quebrada. Nunca tirei da embalagem. Logo Solicitei item a troca porque precisava muito da estante. Nunca foram buscar. Disseram at\u00e9 que foram e a estante estava montada. Uma [Editado pelo Reclame Aqui]. Nunca foi tirada da embalagem e nunca foi montada. Pedi que fizessem uma chamadaa de video para mostrar a embalagem lacrada e n\u00e3o fizeram. Com isso abro varios protocolos e eles fecham sem solu\u00e7\u00e3o. Os protocolos desaparecem. Por fim algu\u00e9m me ligou em dezembro de 2021 dizendo que meu dinheiro seria devolvido. Fiquei feliz, pois j\u00e1 at\u00e9 me mudei, a atendente disse ate pra eu deixar a estante no endere\u00e7o antigo. Deixei, mas depois tive que pagar frete para buscar e levar a estante para o endere\u00e7o novo. Pois n\u00e3o foram buscar. No final do ano a hei que iriam resolver, mas s\u00f3 me enganaram de novo. Nada foi resolvido. Nada foi feito. Acho que terei de ir pra justi\u00e7a, pois o dano moral \u00e9 material foi grande."
       },
       {
-        "titulo": "Meu produto n\u00e3o chegou!",
-        "texto": "Realizei a compra de um whey no dia 05/12/2021 , o prazo da entrega dele era at\u00e9 dia 10/12. Hoje j\u00e1 \u00e9 dia 14 e nada, o produto nem saiu do status de pagamento aprovado! N\u00e3o foi despachado nem nada. Quero o estorno. Aguardo contato."
+        "titulo": "N\u00e3o reembolsam integralmente",
+        "texto": "De verdade, parece brincadeira. Tive problema com DOIS pedidos feitos em dias diferentes!! Esse em especifico era pra retirada r\u00e1pida. A retirada r\u00e1pida demoraria 5 dias, mais do que se eu pedisse para entrega (e isso s\u00f3 apareceu ap\u00f3s aprova\u00e7\u00e3o do pagamento). Fiquei chatead\u00edssima porque eram presentes, em menos de 24h cancelei meu pedido solicitando reembolso. Primeiro me deram um vale presente sem a minha solicita\u00e7\u00e3o ou consentimento. Eu reforcei que havia pedido o reembolso e advinha? N\u00e3o reembolsaram integralmente. &quot;comeram&quot; R$ 23,98 aproximadamente n\u00e3o sei de qu\u00ea! Quero meu dinheiro de volta integralmente, j\u00e1 que n\u00e3o recebi parte do produto e \u00e9 direito meu! Inclusive, o atendente me disse que n\u00e3o havia nenhum dos produtos do pedido na loja. Eu fui at\u00e9 a loja e havia um deles na vitrine. Atendimentos foram feitos pelo whatsapp ent\u00e3o tenho registro de tudo. Ao entrar em contato com a atendente agora me foi informado que &quot;houve um imprevisto com meu reembolso&quot;. Sinceramente, se pedirem reembolso olhem para a fatura de voc\u00eas e confiram o valor real, porque pela quantidade de falhas que essa empresa est\u00e1 apresentando, n\u00e3o me parece &quot;imprevisto&quot; nenhum. Pra piorar, a atendente mandou outra mensagem dizendo que &quot;entrariam em contato em 6 dias \u00fateis&quot; e encerrou o atendimento sem dar tempo de responder.\u00c9 isso a\u00ed, parab\u00e9ns pro atendimento p\u00edfio de voc\u00eas!"
       },
       {
-        "titulo": "Produto n\u00e3o chegou",
-        "texto": "Fiz uma compra dia 26/11/2021 estava previsto para chegar dia 08/12/2021 e at\u00e9 agora n\u00e3o chegou nada tentei entrar em contato mais infelizmente s\u00f3 mensagem autom\u00e1tica preciso que resolvam o mais r\u00e1pido poss\u00edvel pois isso \u00e9 um desaforo com o consumidor aguardo retorno o mais breve o poss\u00edvel e s\u00f3 para constar a empresa de entrega \u00e9 vvlog transportadora ."
+        "titulo": "Entrega do produto no prazo errado e falta de estorno.",
+        "texto": "No dia 23/08/21, fiz uma compra pela internet no site do Extra de 02 (dois) pneus Aro 15 Pirelli 175/65 R15 Cinturato P4 84T K1 no valor R$ 859,80, com o prazo para entrega na data 06/09/21. Por\u00e9m a empresa n\u00e3o cumpriu com o prazo estabelecido de acordo com o anuncio do site, sendo assim, cancelei a compra dos itens pois o prazo n\u00e3o atenderia minha necessidade, de imediato fiz uma solicita\u00e7\u00e3o de estorno, no entanto somente a metade do valor de R$429,90 foi ressarcido na fatura do m\u00eas de outubro e a outra metade ainda n\u00e3o foi estornado. Em decorr\u00eancia de tal fato fiz in\u00fameras tentativas para realizar a restitui\u00e7\u00e3o da outra metade, em especial segue descrito os protocolos das liga\u00e7\u00f5es realizadas: 211125042320 atendente Luana; 211122039375 atendente Marilia, restando infrut\u00edferas tais tentativas. Me sinto inconformado com a situa\u00e7\u00e3o e bastante chateado com a empresa, pois estou pagando por algo que n\u00e3o obtive, e como se n\u00e3o bastasse tive que contratar e pagar os servi\u00e7os de outra empresa para atender minhas necessidades. O atraso na entrega me causou transtorno e aborrecimento, j\u00e1 faz 05 meses que estou tentando a devolu\u00e7\u00e3o do meu dinheiro e n\u00e3o tive sucesso."
       }
-    ]
+    ],
+    "Percentual de atraso na entrega": "16.01%",
+    "Percentual de outro tipo de produto/servi\u00e7o": "14.02%",
+    "Percentual de celulares e smartphones": "12.76%"
   }
 ]
