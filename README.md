@@ -9,14 +9,6 @@ e em seguida executar a Análise Exploratória e implicita dos Dados coletados.
 * Python
 * Selenium
 
-* [ReactJS](https://reactjs.org/)
-* [React Bootstrap](https://react-bootstrap.github.io/) 
-* [styled-components](https://maven.apache.org/) 
-* [Unform](https://maven.apache.org/) 
-* [VS Code](https://code.visualstudio.com/) 
-
-
-
 ##  Autores
 * [Dalania Silva](https://github.com/linkParaPerfil)*  
 
