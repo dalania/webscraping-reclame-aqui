@@ -10,7 +10,7 @@ e em seguida executar a Análise Exploratória e implicita dos Dados coletados.
 * Selenium
 
 ##  Autores
-* [Dalania Silva](https://github.com/linkParaPerfil) e  [Yure Matias]
+* [Dalania Silva](https://github.com/linkParaPerfil) e  Yure Matias
 
 
 ---
